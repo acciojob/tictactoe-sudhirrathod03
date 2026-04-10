@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let btn = document.getElementById("submit");
-let player1 = document.getElementById("player-1")
-let player2 = document.getElementById("player-2")
+let player1 = document.getElementById("player1")
+let player2 = document.getElementById("player2")
 let gameDiv = document.getElementById("game")
 
 btn.addEventListener("click", ()=>{
